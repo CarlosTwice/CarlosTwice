@@ -1,5 +1,5 @@
 ## Hi there 👋
-<h2 title="hehehe"> Hey 👋, I'm Sanskar!</h2>
+<h2 title="hehehe"> Hey 👋, I'm Francisco!</h2>
 
 <a href="https://www.linkedin.com/in/sanskar-jaiswal-102b661a3/">
   <img align="left" alt="Sanskar's LinkedIn" width="24px" src="https://img.icons8.com/nolan/96/linkedin.png" />
@@ -8,7 +8,7 @@
   <img align="left" alt="Sanskar's Instagram" width="24px" src="https://img.icons8.com/nolan/96/instagram-new.png" />
 </a>
 <a href="https://twitter.com/TitanWithKagune">
-  <img align="left" alt="Sanskar's Twitter" width="24px" src="https://img.icons8.com/nolan/96/twitter.png" />
+  <img align="left" alt="Sanskar's Twitter" width="24px" src="https://img.icons8.com/nolan/96/facebook.png" />
 </a>
 
 
@@ -24,21 +24,21 @@
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently a ISE Undergrad student at RNS Institute of Technology, Bangalore
-- 🌱 I’m currently exploring Blockchain with a big interest in Smart Contracts. 
+- 👨🏽‍💻 I’m a student of University of Tecamac, Mexico.
+- 🌱 I’m looking forward to working new tasks.
 - 💬 Ask me about anything, I love to answer!
-- 📫 Email me at [phoenix2810@protonmail.com](mailto:phoenix2810@protonmail.com).
+- 📫 Email me at [phoenix2810@protonmail.com](mailto:carlosfranciscofeliciano1@gmail.com).
 
 
 
 **Languages and Tools:**  
 
 
-<code><img height="20" src="https://img.icons8.com/nolan/96/python.png"></code> Python
-<code><img height="20" src="https://img.icons8.com/nolan/96/ethereum.png"></code> Solidity
+<code><img height="20" src="https://img.icons8.com/nolan/96/python.png"></code> Java
+<code><img height="20" src="https://img.icons8.com/nolan/96/ethereum.png"></code> Kotlin
 
-<code><img height="20" src="https://img.icons8.com/nolan/96/c-plus-plus.png"></code> C++
-<code><img height="20" src="https://img.icons8.com/nolan/96/sql.png"></code> MySQL
+<code><img height="20" src="https://img.icons8.com/nolan/96/c-plus-plus.png"></code> PHP
+<code><img height="20" src="https://img.icons8.com/nolan/96/sql.png"></code> PostgreSQL
 
 <code><img height="20" src="https://img.icons8.com/nolan/96/git.png"></code> GIT
 
