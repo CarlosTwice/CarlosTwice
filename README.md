@@ -1,4 +1,3 @@
-## Hi there 👋
 <h2 title="hehehe"> Hey 👋, I'm Francisco!</h2>
 
 <a href="https://www.linkedin.com/in/sanskar-jaiswal-102b661a3/">
